@@ -1,4 +1,4 @@
-Donation ID,Account ID,Shopping Cart ID,Campaign ID,Donation Amount,Donation Date,Account Type,Full Name (F),Company Name,City,Address Line 1,State/Province,Zip Code,Campaign Name,Purpose,Fund,Tender Type,Tribute Full Name (F)
+donation_id,account_id,shopping_card_id,campaign_id,donation_amount,donation_date,account_type,full_name_(f),company_name,city,address_line_1,state_or_province,zip_code,campaign_name,purpose,fund,tender_type,tribute_full_name_(f)
 427,398,460,3,26.06,09/26/2020,individual,david aguero,st. jude children's research hospital,memphis,4044 saint ann circle,tn,38117,2020 annual campaign,general operating,unrestricted,credit card (online),unknown
 314,305,347,3,100.0,08/01/2020,individual,claire aguilar,unknown,unknown,unknown,unknown,53711,2020 annual campaign,general operating,unrestricted,credit card (online),unknown
 3576,3217,3628,3,50.0,02/24/2022,individual,nancy allen,unknown,cottage grove,2077 uphoff road,wi,53527,2020 annual campaign,general operating,unrestricted,paypal,unknown

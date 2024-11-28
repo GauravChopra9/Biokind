@@ -1,4 +1,4 @@
-Donation ID,Account ID,Shopping Cart ID,Campaign ID,Donation Amount,Donation Date,Account Type,Full Name (F),Company Name,City,Address Line 1,State/Province,Zip Code,Campaign Name,Purpose,Fund,Tender Type,Tribute Full Name (F)
+donation_id,account_id,shopping_card_id,campaign_id,donation_amount,donation_date,account_type,full_name_(f),company_name,city,address_line_1,state_or_province,zip_code,campaign_name,purpose,fund,tender_type,tribute_full_name_(f)
 652,549,685,5,100.0,02/03/2021,company,blackbaud giving fund,american family dreams foundation,charleston,65 fairchild st.,sc,29492,2021 annual campaign,general operating,unknown,check,unknown
 767,660,800,5,26.06,02/22/2021,individual,john beck and casey ditroia,unknown,unknown,unknown,unknown,53703,2021 annual campaign,general operating,unknown,credit card (online),unknown
 847,740,880,5,12.0,02/25/2021,individual,candy anderson,unknown,edgerton,1547 county road a,wi,53534,2021 annual campaign,general operating,unknown,credit card (online),unknown
